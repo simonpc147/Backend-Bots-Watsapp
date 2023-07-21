@@ -1,0 +1,63 @@
+2023/07/21-18:38:58.631 1d4c Reusing MANIFEST C:\xampp\htdocs\curso-php\Simon-Proyecto-Whatsapp Mario\Dashboard-Sin-PHP\Backend con Node.js Bot-Whatsapp\session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-012121
+2023/07/21-18:38:58.633 1d4c Recovering log #13320
+2023/07/21-18:38:59.022 1d4c Reusing old log C:\xampp\htdocs\curso-php\Simon-Proyecto-Whatsapp Mario\Dashboard-Sin-PHP\Backend con Node.js Bot-Whatsapp\session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/013320.log 
+2023/07/21-18:39:27.636 2d54 Level-0 table #13362: started
+2023/07/21-18:39:28.581 2d54 Level-0 table #13362: 1069795 bytes OK
+2023/07/21-18:39:28.744 2d54 Delete type=0 #13320
+2023/07/21-18:39:28.868 2d54 Compacting 1@1 + 0@2 files
+2023/07/21-18:39:29.425 2d54 Generated table #13363@1: 15280 keys, 412912 bytes
+2023/07/21-18:39:29.825 2d54 Generated table #13364@1: 1200 keys, 92074 bytes
+2023/07/21-18:39:30.205 2d54 Generated table #13365@1: 3804 keys, 59151 bytes
+2023/07/21-18:39:30.775 2d54 Generated table #13366@1: 547 keys, 10312 bytes
+2023/07/21-18:39:30.775 2d54 Compacted 1@1 + 0@2 files => 574449 bytes
+2023/07/21-18:39:30.988 2d54 compacted to: files[ 0 0 4 35 0 0 0 ]
+2023/07/21-18:39:31.496 2d54 Compacting 1@2 + 2@3 files
+2023/07/21-18:39:33.551 2d54 Generated table #13367@2: 59604 keys, 2276632 bytes
+2023/07/21-18:39:35.285 2d54 Generated table #13368@2: 42386 keys, 2215567 bytes
+2023/07/21-18:39:35.633 2d54 Generated table #13369@2: 33 keys, 51079 bytes
+2023/07/21-18:39:35.633 2d54 Compacted 1@2 + 2@3 files => 4543278 bytes
+2023/07/21-18:39:36.240 2d54 compacted to: files[ 0 0 3 36 0 0 0 ]
+2023/07/21-18:39:36.241 2d54 Delete type=2 #13362
+2023/07/21-18:39:38.113 2efc Compacting 1@2 + 10@3 files
+2023/07/21-18:39:39.029 2efc Generated table #13370@2: 3306 keys, 2153872 bytes
+2023/07/21-18:39:40.476 2efc Generated table #13371@2: 28411 keys, 2257026 bytes
+2023/07/21-18:39:41.729 2efc Generated table #13372@2: 22543 keys, 2287474 bytes
+2023/07/21-18:39:42.766 2efc Generated table #13373@2: 22654 keys, 2272621 bytes
+2023/07/21-18:39:43.336 2efc Generated table #13374@2: 11328 keys, 2149699 bytes
+2023/07/21-18:39:43.920 2efc Generated table #13375@2: 2329 keys, 2122729 bytes
+2023/07/21-18:39:44.379 2efc Generated table #13376@2: 1397 keys, 2120477 bytes
+2023/07/21-18:39:44.874 2efc Generated table #13377@2: 1413 keys, 2119855 bytes
+2023/07/21-18:39:45.846 2efc Generated table #13378@2: 1372 keys, 2121896 bytes
+2023/07/21-18:39:46.670 2efc Level-0 table #13381: started
+2023/07/21-18:39:47.469 2efc Level-0 table #13381: 1436948 bytes OK
+2023/07/21-18:39:47.492 2efc Delete type=2 #13348
+2023/07/21-18:39:47.493 2efc Delete type=2 #13349
+2023/07/21-18:39:47.493 2efc Delete type=0 #13361
+2023/07/21-18:39:47.493 2efc Delete type=2 #13363
+2023/07/21-18:39:47.823 2efc Generated table #13379@2: 55982 keys, 2192424 bytes
+2023/07/21-18:39:47.944 2efc Generated table #13382@2: 1985 keys, 42149 bytes
+2023/07/21-18:39:47.944 2efc Compacted 1@2 + 10@3 files => 21840222 bytes
+2023/07/21-18:39:47.986 2efc compacted to: files[ 0 1 2 37 0 0 0 ]
+2023/07/21-18:39:47.993 2efc Compacting 1@1 + 0@2 files
+2023/07/21-18:39:48.805 2efc Generated table #13383@1: 20173 keys, 616185 bytes
+2023/07/21-18:39:49.002 2efc Generated table #13384@1: 1604 keys, 366693 bytes
+2023/07/21-18:39:49.002 2efc Compacted 1@1 + 0@2 files => 982878 bytes
+2023/07/21-18:39:49.034 2efc compacted to: files[ 0 0 4 37 0 0 0 ]
+2023/07/21-18:39:49.035 2efc Delete type=2 #13337
+2023/07/21-18:39:49.035 2efc Delete type=2 #13338
+2023/07/21-18:39:49.035 2efc Delete type=2 #13339
+2023/07/21-18:39:49.035 2efc Delete type=2 #13340
+2023/07/21-18:39:49.035 2efc Delete type=2 #13341
+2023/07/21-18:39:49.035 2efc Delete type=2 #13342
+2023/07/21-18:39:49.035 2efc Delete type=2 #13343
+2023/07/21-18:39:49.035 2efc Delete type=2 #13344
+2023/07/21-18:39:49.035 2efc Delete type=2 #13345
+2023/07/21-18:39:49.035 2efc Delete type=2 #13346
+2023/07/21-18:39:49.035 2efc Delete type=2 #13364
+2023/07/21-18:39:49.071 2efc Compacting 1@2 + 12@3 files
+2023/07/21-18:39:50.060 2efc Generated table #13385@2: 62828 keys, 2279661 bytes
+2023/07/21-18:39:50.660 2efc Generated table #13386@2: 42834 keys, 2214207 bytes
+2023/07/21-18:39:50.967 2efc Generated table #13387@2: 1702 keys, 2150565 bytes
+2023/07/21-18:39:51.359 2efc Generated table #13388@2: 1918 keys, 2154627 bytes
+2023/07/21-18:39:51.819 2efc Generated table #13389@2: 1580 keys, 2152699 bytes
+2023/07/21-18:39:52.871 2efc Generated table #13390@2: 1645 keys, 2152237 bytes
